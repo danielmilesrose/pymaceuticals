@@ -9,3 +9,4 @@ Finding Duplicates - https://stackoverflow.com/questions/14657241/how-do-i-get-a
 Aggregation Method - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
 Renaming Columns - https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/
 Changing Visuals on Box Plots - https://matplotlib.org/3.1.1/gallery/statistics/boxplot.html
+Troubleshooting linregress - https://stackoverflow.com/questions/59284296/nameerror-global-name-linregress-is-not-defined
